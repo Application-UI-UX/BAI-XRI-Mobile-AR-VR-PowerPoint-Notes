@@ -2,7 +2,7 @@
 **Date:** Mon. May 20, 2024
 
 ## 6:00 PM - Ronaldson Bellande
-- Hello.
+- Hello
 
 ## 6:05 PM - Ronaldson Bellande
 - Introduction to the mobile VR workstation.
