@@ -1,4 +1,4 @@
-# BAI-XRI-Mobile-AR-VR-PowerPoint-Notes
+# {BAIXRI} Mobile AR VR PowerPoint Notes {Robotics Official} {Bellande Technologies Official}
 
 The focus of Mobile, Augmented Reality (AR), and Virtual Reality (VR) is to enhance user experiences by integrating advanced digital technologies with real-world environments and mobile devices. Each of these technologies offers unique capabilities and applications across various industries. Here's a detailed explanation:
 
